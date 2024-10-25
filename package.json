@@ -1,0 +1,12 @@
+{
+  "name": "input-sync",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "iohook": "^0.9.3",
+    "robotjs": "^0.6.0"
+  }
+}
